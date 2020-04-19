@@ -1,0 +1,10 @@
+Package: com.lilacvibes.ytstockvolumehud
+Name: YTStockVolumeHUD
+Depends: mobilesubstrate, firmware (>= 13)
+Architecture: iphoneos-arm
+Description: Replaces YouTube's volume HUD with the stock volume HUD
+Maintainer: lilacvibes
+Author: lilacvibes
+Section: Tweaks
+Version: 1.0
+Installed-Size: 136
