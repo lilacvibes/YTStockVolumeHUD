@@ -3,6 +3,7 @@ Name: YTStockVolumeHUD
 Depends: mobilesubstrate, firmware (>= 13)
 Architecture: iphoneos-arm
 Description: Replaces YouTube's volume HUD with the stock volume HUD
+Depiction: https://lilacvibes.github.io/depictions/?p=com.lilacvibes.ytstockvolumehud
 Maintainer: lilacvibes
 Author: lilacvibes
 Section: Tweaks
