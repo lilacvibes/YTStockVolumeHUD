@@ -2,5 +2,5 @@
 .debmake
 _
 obj
-.theos
+.theoss
 .DS_Store
